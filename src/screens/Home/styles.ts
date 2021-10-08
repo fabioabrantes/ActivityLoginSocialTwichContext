@@ -48,7 +48,7 @@ export const SignOutButton = styled(RectButton)`
 `;
 
 export const UserFollowedStreams = styled.View`
-  margin-top: 20px;
+  margin-top: 10px;
 `;
 
 export const UserFollowedStreamsTitle = styled.Text`
@@ -61,11 +61,11 @@ export const UserFollowedStreamsTitle = styled.Text`
 `;
 
 export const TopGames = styled.View`
-  margin-top: 38px;
+  margin-top: 20px;
 `;
 
 export const TopGamesTitle = styled.Text`
-  margin-bottom: 24px;
+  margin-bottom: 18px;
   margin-left: 24px;
 
   color: ${props => props.theme.colors.white};
